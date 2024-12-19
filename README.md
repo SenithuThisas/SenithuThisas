@@ -3,77 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Senithu Thisas - Portfolio</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background: #0e75b6;
-            color: white;
-            padding: 40px 0;
-            text-align: center;
-        }
-        header h1 {
-            font-size: 3em;
-            margin-bottom: 0.2em;
-        }
-        header h3 {
-            font-size: 1.5em;
-            font-weight: 300;
-            margin-top: 0;
-        }
-        .section {
-            padding: 20px;
-            margin: 20px auto;
-            max-width: 900px;
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .section h3 {
-            font-size: 2em;
-            color: #0e75b6;
-        }
-        .section ul {
-            list-style: none;
-            padding-left: 0;
-        }
-        .section ul li {
-            margin: 10px 0;
-        }
-        .section a {
-            color: #0e75b6;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .social-links img {
-            margin: 5px;
-        }
-        .languages-icons img {
-            margin: 10px;
-            width: 40px;
-            height: 40px;
-        }
-        .stats img {
-            margin-top: 20px;
-            width: 100%;
-        }
-        .footer {
-            background: #333;
-            color: white;
-            text-align: center;
-            padding: 20px;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
+  
+   
 </head>
 <body>
 
@@ -87,13 +18,7 @@
         <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20views&color=0e75b6&style=flat" alt="senithuthisas" /> 
     </p>
 
-    <ul>
-        <li>🔭 I’m currently working on **Portfolio Website**</li>
-        <li>🌱 I’m currently learning **native android application dev**</li>
-        <li>👯 I’m looking to collaborate on **Web development projects using HTML, CSS, and JavaScript.**</li>
-        <li>🤝 I’m looking for help with **Exploring best practices in web development using HTML, CSS, and JavaScript**</li>
-        <li>📫 How to reach me: <a href="mailto:contact.senithu@gmail.com">contact.senithu@gmail.com</a></li>
-    </ul>
+   
 </div>
 
 <div class="section">
