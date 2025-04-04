@@ -11,11 +11,10 @@
 ## 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://twitter.com/senithuthisas" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/senithu-ekenayake" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/></a>
-  <a href="https://fb.com/senithu.ekenayake" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" alt="Facebook"/></a>
-  <a href="https://www.youtube.com/c/senithu-thisas" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" alt="YouTube"/></a>
-  <a href="https://github.com/senithuthisas" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/></a>
+  
+  <a href="https://www.linkedin.com/in/senithu-ekenayake-5a82b1262/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@SenithuThisas" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" alt="YouTube"/></a>
+  <a href="https://github.com/SenithuThisas" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/></a>
 </p>
 
 ---
