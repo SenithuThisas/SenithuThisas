@@ -1,6 +1,6 @@
 # Hi 👋, I'm Senithu Thisas  
 
-### 🎓 First-year Software Engineering student passionate about building creative and impactful software.
+### 🎓 Second-year Software Engineering student passionate about building creative and impactful software.
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20views&color=0e75b6&style=flat" alt="senithuthisas" /> 
