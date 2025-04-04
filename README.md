@@ -61,4 +61,4 @@
 ---
 
 ✨ **Created with ❤️ by Senithu Thisas** ✨  
-📧 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+📧 Reach me at: [your-email@example.com](senithuthisas22@gmail.com)
