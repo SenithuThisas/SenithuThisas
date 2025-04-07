@@ -19,39 +19,46 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/android-os.png" width="40" title="Android"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40" title="C++"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" width="40" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="40" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" width="40" title="JavaScript"/>
-  <br>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40" title="Java"/>
-  <img src="https://img.icons8.com/color/48/python.png" width="40" title="Python"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" title="MySQL"/>
-  <img src="https://img.icons8.com/offices/48/php-logo.png" width="40" title="PHP"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" width="40"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" width="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="40"/>
+  <img src="https://img.icons8.com/offices/48/php-logo.png" title="PHP" width="40"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/android-os.png" title="Android" width="40"/>
+</p>
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/senithu-ekenayake-5a82b1262/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" width="40"/></a>
+  <a href="https://github.com/SenithuThisas" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" width="40"/></a>
+  <a href="https://www.youtube.com/@SenithuThisas" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" title="YouTube" width="40"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=default" width="400" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithuthisas&layout=compact&theme=default" width="400" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithuthisas&layout=compact&theme=tokyonight" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senithuthisas&theme=default" width="400" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senithuthisas&theme=tokyonight" width="400"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-🔜 **Coming soon!** I'm working on exciting projects that I'll share here.
+🔜 Currently working on my portofolio website!
 
 ---
 
