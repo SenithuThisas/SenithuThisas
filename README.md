@@ -62,5 +62,5 @@
 
 ---
 
-✨ **Created with ❤️ by Senithu Thisas** ✨  
+
 📧 Reach me at: [senithuthisas22@gmail.com](mailto:senithuthisas22@gmail.com)
