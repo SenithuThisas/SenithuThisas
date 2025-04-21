@@ -58,7 +58,7 @@
 
 ## 🌟 Featured Projects
 
-✅ Currently working on my portofolio website!
+✅ Currently working on my portofolio website! <br>
 🔜 Web Based to do list App
 
 ---
