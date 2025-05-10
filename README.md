@@ -31,6 +31,13 @@
   <img src="https://img.icons8.com/offices/48/php-logo.png" title="PHP" width="40"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" width="40"/>
   <img src="https://img.icons8.com/color/48/android-os.png" title="Android" width="40"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" width="40"/>
+  <img src="https://img.icons8.com/officel/48/react.png" title="React" width="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" width="40"/>
+  <img src="https://img.icons8.com/ios/50/express-js.png" title="Express.js" width="40"/>
+  <img src="https://img.icons8.com/external-becris-flat-becris/64/external-r-programming-becris-flat-becris.png" title="R" width="40"/>
+  <img src="https://img.icons8.com/color/48/asp.png" title="ASP.NET" width="40"/>
 </p>
 
 ## 🌐 Socials
