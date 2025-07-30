@@ -12,23 +12,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=senithuthisas&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=15" alt="Trophy" />
 </div>
 
+<br><br>
 
-
+<h2 align="center">Skills</h2>
 <div align="center">
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f0db4f)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=20232A" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 
 </div>
 
@@ -45,16 +46,18 @@
 <h2 align="center">📈 &nbsp; My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true" width="400" alt="Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="180" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true" width="400" height="180" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" width="700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true" width="400" height="180" alt="Top Langs"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" width="700" alt="Profile Summary"/>
+</p>
+
 
 
 
