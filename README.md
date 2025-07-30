@@ -1,72 +1,74 @@
-# Hi 👋, I'm Senithu Thisas  
-
-### 🎓 Second-year Software Engineering student passionate about building creative and impactful software.
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20views&color=0e75b6&style=flat" alt="senithuthisas" /> 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5ZHd1Mmo2bzg3ZDA1aTJiMGN6azlvNGVqbjJxYnZheTNwbWpqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKNqU8ISdR7iw/giphy.gif" width="50%" alt="Banner GIF"/>
 </p>
 
----
 
-## 🌐 Connect with Me:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=FFFF33&background=00000000&center=true&vCenter=true&width=700&lines=+Hello%2C+I'm+Senithu+Thisas!+;⚡+Welcome+to+my+GitHub+Profile!+⚡" alt="Typing SVG" />
+</h1>
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=senithuthisas&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=15" alt="Trophy" />
+</div>
+
+
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f0db4f)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+
+
+<h2 align="center">About Me</h2>
+
+- 🎓 &nbsp; Second-year Software Engineering student  
+- 💡 &nbsp; Thinker, builder, tinkerer—always looking to create something impactful!
+- 🚀 &nbsp; Building my Portfolio site & a To-Do Web App
+- 🌱 &nbsp; Currently learning DevOps & Cloud technologies
+
+
+<h2 align="center">📈 &nbsp; My GitHub Stats</h2>
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/senithu-ekenayake-5a82b1262/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@SenithuThisas" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" alt="YouTube"/></a>
-  <a href="https://github.com/SenithuThisas" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true" width="400" alt="Streak"/>
 </p>
-
----
-
-## 🛠️ Skills
-
 <p align="center">
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" width="40"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" width="40"/>
-  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" width="40"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="40"/>
-  <img src="https://img.icons8.com/offices/48/php-logo.png" title="PHP" width="40"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" width="40"/>
-  <img src="https://img.icons8.com/color/48/android-os.png" title="Android" width="40"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" width="40"/>
-  <img src="https://img.icons8.com/officel/48/react.png" title="React" width="40"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" width="40"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" width="40"/>
-  <img src="https://img.icons8.com/ios/50/express-js.png" title="Express.js" width="40"/>
- </p>
-
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/senithu-ekenayake-5a82b1262/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" width="40"/></a>
-  <a href="https://github.com/SenithuThisas" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" width="40"/></a>
-  <a href="https://www.youtube.com/@SenithuThisas" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" title="YouTube" width="40"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithuthisas&layout=compact&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senithuthisas&theme=tokyonight" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" width="700" />
 </p>
 
----
-
-## 🌟 Featured Projects
-
-✅ Currently working on my portofolio website! <br>
-🔜 Web Based to do list App
-
----
 
 
-📧 Reach me at: [senithuthisas22@gmail.com](mailto:senithuthisas22@gmail.com)
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:senithuthisas22@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/senithu-ekenayake-5a82b1262/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://github.com/SenithuThisas"><img src="https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://www.youtube.com/@SenithuThisas"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
+</p>
+
+
+
+
+
+
