@@ -65,11 +65,6 @@
 
 
 
-## 🎧 Vibe Zone  
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ilqyj6qchfkpqwvpezzh6u6yli&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=yellow&bar_color_cover=false" alt="Spotify" />
-</p>
 
 
 ## 📬 Connect With Me  
