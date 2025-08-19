@@ -26,9 +26,8 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,git,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,html,css,tailwind,next,php,wordpress,git,docker,mongodb,mysql,postgres,fedora,digitalocean&perline=7" />
 </p>
-
 
 
 ## 🌟 About Me  
