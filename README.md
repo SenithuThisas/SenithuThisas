@@ -9,13 +9,11 @@
 
 
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senithuthisas&color=FFFF33&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/senithuthisas?label=Followers&logo=github&style=for-the-badge&color=yellow" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/senithuthisas?label=Stars&logo=github&style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-647-7851A9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Followers-6-7851A9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Stars-32-7851A9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="Stars"/>
 </p>
-
 
 
 <!-- Animated Trophy -->
