@@ -3,42 +3,57 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5ZHd1Mmo2bzg3ZDA1aTJiMGN6azlvNGVqbjJxYnZheTNwbWpqNiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/LKNqU8ISdR7iw/giphy.gif" width="60%" alt="Banner GIF"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=600&color=FFFF33&background=00000000&center=true&vCenter=true&width=700&lines=🚀+Hey%2C+I'm+Senithu+Thisas!;⚡+A+Passionate+Software+Engineer+⚡;💡+Always+Learning+%26+Building" alt="Typing SVG" />
-</h1>
-
-
+<h1 align="center">🚀 Hey, I'm Senithu Thisas</h1>
+<h3 align="center">⚡ A Passionate Software Engineer ⚡</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-647-7851A9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20Views&color=7851A9&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Followers-6-7851A9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="Followers"/>
   <img src="https://img.shields.io/badge/Stars-32-7851A9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="Stars"/>
-</p>
 
+</p>
 
 <!-- Animated Trophy -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=senithuthisas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" alt="Trophy" />
 </div>
 
+---
 
+## ⚡ Tech Stack  
 
-## ⚡ Tech Stack
-
+### 🖥️ Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,express,html,css,tailwind,next,php,wordpress,git,docker,mongodb,mysql,postgres,fedora,digitalocean&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,html,css" />
 </p>
 
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,cpp" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### 🔧 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,fedora,digitalocean,wordpress" />
+</p>
+
+---
 
 ## 🌟 About Me  
 
 - 🎓 2nd Year **Software Engineering Student**  
-- 💡 Love solving problems & creating impactful solutions  
+- 💡 Passionate about **problem-solving** & **building impactful applications**  
 - 🚀 Currently building **Portfolio Website** + **To-Do App**  
-- 🌱 Exploring **DevOps** & **Cloud Technologies**  
+- 🌱 Exploring **DevOps, Cloud Technologies & Scalable Systems**  
+- 🎯 Aspiring **Full-Stack Developer** with focus on **MERN + Java**  
+- 🔍 Goal: To create software that solves **real-world problems**  
 
-
-
+---
 
 ## 📊 GitHub Analytics  
 
@@ -55,16 +70,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" width="800" alt="Profile Summary"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senithuthisas&theme=tokyo-night" width="800" alt="Contribution Graph"/>
+</p>
 
+---
 
 ## 🏆 Achievements  
 
-- 🛠️ Built multiple projects with MERN & Java  
-- 🌍 Contributor to Open Source  
+- 🛠️ Built multiple projects with **MERN stack** & **Java**  
+- 🌍 Contributed to **Open Source**  
+- ✅ Developed academic projects:  
+  - Portfolio Website  
+  - To-Do App  
+  - QR Code Attendance System (MERN)  
+- 🎯 Ongoing: **Exploring Cloud & DevOps**  
 
-
-
-
+---
 
 ## 📬 Connect With Me  
 
@@ -82,6 +104,5 @@
     <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube"/>
   </a>
 </p>
-
 
 ⭐ *"Code. Learn. Build. Repeat."* 🚀
