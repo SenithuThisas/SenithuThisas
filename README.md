@@ -66,7 +66,8 @@ const senithu = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" />
+ <img width="390" src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" />
+ 
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 </div>
 
