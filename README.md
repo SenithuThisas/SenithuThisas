@@ -16,10 +16,10 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-36BCF7?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
 </p>
 
-<!-- Animated Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
-</div>
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5ZHd1Mmo2bzg3ZDA1aTJiMGN6azlvNGVqbjJxYnZheTNwbWpqNiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/LKNqU8ISdR7iw/giphy.gif" width="60%" alt="Banner GIF"/>
+</p>
 
 ---
 
