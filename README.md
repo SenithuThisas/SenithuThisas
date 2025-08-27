@@ -58,7 +58,7 @@ const senithu = {
 
 ### 🛠️ Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,digitalocean,wordpress,fedora,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,docker,wordpress,vscode&perline=6" />
 </p>
 
 ---
@@ -72,16 +72,15 @@ const senithu = {
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" />
-  <img width="390" src="https://github-readme-activity-graph.vercel.app/graph?username=senithuthisas&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=FF6B6B" />
+
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" width="800" alt="Profile Summary"/>
+</p>
+
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=senithuthisas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
-</div>
 
 ### 🎯 Highlights
 - 🛠️ **10+ Projects** built with MERN Stack & Java
@@ -103,52 +102,24 @@ const senithu = {
 
 </div>
 
----
-
-## 🤝 Let's Connect & Collaborate
 
 <div align="center">
   
 ### 📬 **Reach Out**
   
-<a href="mailto:senithuthisas22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/senithu-ekenayake-5a82b1262/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/SenithuThisas">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.youtube.com/@SenithuThisas">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
-### 💡 **Open for:**
-- Collaboration on exciting projects
-- Mentorship opportunities  
-- Tech discussions and knowledge sharing
-- Freelance development work
-
-</div>
-
----
-
-<div align="center">
-  
-### ⚡ *"Every line of code is a step towards innovation"* 🚀
-
-<img src="https://readme-quotes-api.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&font=Redressed" />
-
-</div>
-
-<!-- Dynamic Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&text=&fontSize=0" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐ Feel free to star my repositories if you find them helpful! ⭐</i>
-</div>
+<p align="center">
+  <a href="mailto:senithuthisas22@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/senithu-ekenayake-5a82b1262/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SenithuThisas">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@SenithuThisas">
+    <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube"/>
+  </a>
+</p>
+<div>
+⭐ "Code. Learn. Build. Repeat." 🚀
