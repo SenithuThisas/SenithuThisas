@@ -83,13 +83,7 @@ const senithu = {
 ---
 
 
-### 🎯 Highlights
-- 🛠️ **10+ Projects** built with MERN Stack & Java
-- 🌍 **Active Contributor** to Open Source Community  
-- 📚 **Continuous Learner** exploring cutting-edge technologies
-- 💡 **Problem Solver** with a passion for clean, efficient code
 
----
 
 ## 🌱 Current Journey
 
