@@ -41,15 +41,19 @@ const senithu = {
 
 
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="left">
  <img width="390" src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" />
  
+</div>
+
+<div>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 </div>
 
 <div align="left">
+ 
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" />
 
   <p align="left">
@@ -59,28 +63,11 @@ const senithu = {
 </div>
 
 
-
-
-
-
-## 🌱 Current Journey
-
-<div align="left">
-
-| 🔥 **Currently Working On** | 🌟 **Learning** | 🎯 **Goals 2024** |
-|:---:|:---:|:---:|
-| Portfolio Website | DevOps & CI/CD | Master React Ecosystem |
-| Task Management App | Cloud Architecture | Contribute to Open Source |
-| Personal Blog | System Design | Build 5 Full-Stack Projects |
-
-</div>
-
-
 <div align="left">
   
 ### 📬 **Reach Out**
   
-<p align="center">
+<p align="left">
   <a href="mailto:senithuthisas22@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email"/>
   </a>
