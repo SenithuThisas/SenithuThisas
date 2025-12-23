@@ -1,7 +1,5 @@
-<!-- Animated Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3000&pause=800&color=36BCF7FF&background=00000000&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Senithu+Thisas!;🚀+Passionate+Software+Engineer;💻+Full+Stack+Developer;🌟+Building+the+Future" alt="Typing SVG" />
-</h1>
+
+<h1 align="center">Hi, I am Senithu Ekenayake</h1>
 
 <!-- Profile Stats Row -->
 <p align="center">
