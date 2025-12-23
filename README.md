@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi, I am Senithu Ekenayake</h1>
+<h1 align="left">Hi, I am Senithu Ekenayake</h1>
 
-<!-- Profile Stats Row -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20Views&color=36BCF7&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/senithuthisas?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="Followers"/>
