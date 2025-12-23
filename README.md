@@ -1,8 +1,3 @@
-<!-- Dynamic Header with Animated Background -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=header&text=&fontSize=0" />
-</div>
-
 <!-- Animated Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3000&pause=800&color=36BCF7FF&background=00000000&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Senithu+Thisas!;🚀+Passionate+Software+Engineer;💻+Full+Stack+Developer;🌟+Building+the+Future" alt="Typing SVG" />
