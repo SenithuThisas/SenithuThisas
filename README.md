@@ -32,40 +32,54 @@ const senithu = {
 # Skills
 
 
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php&perline=6" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass&perline=6" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=6" />
   <img src="https://skillicons.dev/icons?i=git,docker,wordpress,vscode&perline=6" />
-</p>
+</div>
 
 
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="left">
- <img width="390" src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" />
- 
+  <a href="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" target="_blank" rel="noopener noreferrer nofollow">
+    <img width="376" height="500" src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" target="_blank" rel="noopener noreferrer nofollow">
+    <img width="376" height="500" src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
+  </a>
 </div>
 
-<div>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
+
+<p align="left">
+  
+</p>
+
+<div align="left">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" target="_blank" rel="noopener noreferrer nofollow">
+    <img width="376" src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="left">
- 
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" />
-
-  <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" width="800" alt="Profile Summary"/>
-</p>
-
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" alt="Profile Summary" />
+  </a>
 </div>
+
+
+
+
+
+
 
 
 <div align="left">
   
-### 📬 **Reach Out**
+# 📬 Reach Out
   
 <p align="left">
   <a href="mailto:senithuthisas22@gmail.com">
