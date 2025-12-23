@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I am Senithu Ekenayake</h1>
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20Views&color=36BCF7&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/senithuthisas?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/senithuthisas?label=Stars&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="Stars"/>
@@ -10,7 +10,7 @@
 </p>
 
 <!-- Banner Section -->
-<p align="center">
+<p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5ZHd1Mmo2bzg3ZDA1aTJiMGN6azlvNGVqbjJxYnZheTNwbWpqNiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/LKNqU8ISdR7iw/giphy.gif" width="60%" alt="Banner GIF"/>
 </p>
 
@@ -35,22 +35,22 @@ const senithu = {
 ## 💻 Tech Arsenal
 
 ### 🎯 Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php&perline=6" />
 </p>
 
 ### 🌐 Frontend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass&perline=6" />
 </p>
 
 ### ⚙️ Backend & Database
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=6" />
 </p>
 
 ### 🛠️ Tools & DevOps
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,wordpress,vscode&perline=6" />
 </p>
 
@@ -58,16 +58,16 @@ const senithu = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
  <img width="390" src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" />
  
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 </div>
 
-<div align="center">
+<div align="left">
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" />
 
-  <p align="center">
+  <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithuthisas&theme=tokyonight" width="800" alt="Profile Summary"/>
 </p>
 
@@ -80,7 +80,7 @@ const senithu = {
 
 ## 🌱 Current Journey
 
-<div align="center">
+<div align="left">
 
 | 🔥 **Currently Working On** | 🌟 **Learning** | 🎯 **Goals 2024** |
 |:---:|:---:|:---:|
@@ -91,7 +91,7 @@ const senithu = {
 </div>
 
 
-<div align="center">
+<div align="left">
   
 ### 📬 **Reach Out**
   
