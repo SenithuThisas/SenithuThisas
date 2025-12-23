@@ -7,12 +7,12 @@
 </p>
 
 
-<!-- Banner Section -->
+
 <p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5ZHd1Mmo2bzg3ZDA1aTJiMGN6azlvNGVqbjJxYnZheTNwbWpqNiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/LKNqU8ISdR7iw/giphy.gif" width="60%" alt="Banner GIF"/>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -28,7 +28,7 @@ const senithu = {
 };
 ```
 
----
+
 
 ## 💻 Tech Arsenal
 
@@ -52,7 +52,7 @@ const senithu = {
   <img src="https://skillicons.dev/icons?i=git,docker,wordpress,vscode&perline=6" />
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -71,7 +71,7 @@ const senithu = {
 
 </div>
 
----
+
 
 
 
