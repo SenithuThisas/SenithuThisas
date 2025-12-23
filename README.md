@@ -3,11 +3,9 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20Views&color=36BCF7&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/senithuthisas?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/senithuthisas?label=Stars&style=for-the-badge&color=36BCF7&labelColor=1a1b27" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-36BCF7?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
+  <img src="https://komarev.com/ghpvc/?username=senithuthisas&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views"/>
 </p>
+
 
 <!-- Banner Section -->
 <p align="left">
