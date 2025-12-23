@@ -14,41 +14,28 @@
 
 
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```javascript
 const senithu = {
-    role: "Software Engineering Student",
-    year: "2nd Year",
+    role: "Software Engineering Undergraduate",
+    year: "Last year",
     location: "Sri Lanka 🇱🇰",
     passions: ["Problem Solving", "Clean Code", "Innovation"],
-    currentFocus: ["Full Stack Development", "DevOps", "Cloud Technologies"],
-    currentProjects: ["Portfolio Website", "Task Management App"],
-    lifePhilosophy: "Code with purpose, learn with passion, build with impact"
-};
+    currentFocus: ["Full Stack Development", "DevOps"],
+    currentProjects: ["Online Voting System", "Workout Progress Checker App"],
+  };
 ```
 
 
 
-## 💻 Tech Arsenal
+# Skills
 
-### 🎯 Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php&perline=6" />
-</p>
-
-### 🌐 Frontend
-<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass&perline=6" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=6" />
-</p>
-
-### 🛠️ Tools & DevOps
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,wordpress,vscode&perline=6" />
 </p>
 
