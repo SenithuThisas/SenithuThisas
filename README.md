@@ -43,20 +43,15 @@ const senithu = {
 
 ## 📊 GitHub Analytics
 
-<div align="left">
-  <a href="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" target="_blank" rel="noopener noreferrer nofollow">
-    <img width="376" height="500" src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" target="_blank" rel="noopener noreferrer nofollow">
-    <img width="376" height="500" src="https://github-readme-streak-stats.herokuapp.com?user=senithuthisas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
-  </a>
-</div>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=senithuthisas&show_icons=true&theme=tokyonight&hide_border=true" width="390" />
+  <img src="https://streak-stats.demolab.com?user=senithuthisas&theme=tokyonight&hide_border=true" width="390" />
+</p>
 
 <p align="left">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true" width="390" />
 </p>
+
 
 <div align="left">
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" target="_blank" rel="noopener noreferrer nofollow">
