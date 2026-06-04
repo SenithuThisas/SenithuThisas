@@ -19,11 +19,11 @@
 ```javascript
 const senithu = {
     role: "Software Engineering Undergraduate",
-    year: "Last year",
+    year: "Final year",
     location: "Sri Lanka 🇱🇰",
     passions: ["Problem Solving", "Clean Code", "Innovation"],
     currentFocus: ["Full Stack Development", "DevOps"],
-    currentProjects: ["Online Voting System", "Workout Progress Checker App"],
+    currentProjects: ["MudraLearn", "Finance Tracker"],
   };
 ```
 
