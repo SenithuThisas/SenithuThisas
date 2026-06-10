@@ -48,10 +48,6 @@ const senithu = {
   <img src="https://streak-stats.demolab.com?user=senithuthisas&theme=tokyonight&hide_border=true" width="390" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true" width="390" />
-</p>
-
 
 <div align="left">
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=senithuthisas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=c9d1d9" target="_blank" rel="noopener noreferrer nofollow">
